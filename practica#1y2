@@ -1,0 +1,54 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>nelson css</title>
+    <style type="text/css">
+    	img{
+    		width: 300px;
+    		height: 150px;
+    	    border: 2px solid blue;
+    	    border-radius: 20px;
+    	}
+    	 .rojo{
+    	 	color: red;
+    	 	background: #f4a460;
+    	 	margin: 0px 350px 30px 350px;
+    	 }
+    	 .hp{
+    	 	color: blue;
+    	 	font-size: 20px;
+    	 }
+    	 .x{
+            color: brown;
+         }
+         a{
+            text-decoration: none;
+         }
+         a:hover {
+            text-decoration: underline;
+            color: yellow;
+         }
+
+    </style>
+</head>
+<body>
+	<figure>
+        <img src="jpg.PNG">
+    </figure>
+        <h1 class="rojo"><ul><li>aulaClic.Cursos de imformatica gratis</li></ul></h1>
+        <h2 class="hp">La primera pagina wed en espaniol sobre cursos de informatica gratis on-line</h2>
+        <ol>
+            <h2 class="x">Cursos de aula clic</h2>
+            <p class="x">1.Access 2016</p>
+            <p class="x">2.Excel 2016</p>
+            <p class="x">3.Internet</p>
+            <p class="x">4.Windows</p>
+            <h2 class="x">Cursos de colavoradores</h2>
+            <p class="x">5.autoCAD 2015</p>
+            <p class="x">6. Estadisticas con Excel</p>
+            <p class="x">7.Joomla</p>
+        </ol>
+<p><a href="https://bo.izito.com/ws?q=gratis%20cursos&asid=iz_bo_ga_1_cg1_01&mt=b&nw=s&de=c&ap=&ac=2263&cid=2059508095&aid=78754602689&locale=es_BO&gclid=EAIaIQobChMI_6fW4_Xu9gIVlYaRCh3oVgV6EAAYAiAAEgKe0vD_BwE" target="_black">Siguenos en Google</a></p>
+</body>
+</html>
